@@ -1,7 +1,7 @@
-# go-Examples
+# Go Examples
 
 Go Examples contains some practice programs for learning the basics of Go Language. 
-It contains programs on :
+It contains programs on topics, that will help you as a building block:
 
 - Basics
     - Interface
@@ -11,22 +11,25 @@ It contains programs on :
     - Defer
     - Panic
     - JSON
+
 - Design Pattern
     - Closure
     - Recursion
     - Currying
-    - FunctionComposition
-    - CollectionFunctions (Index, Include, Any, All, Filter, Map)
+    - Function Composition
+    - Collection Functions (Index, Include, Any, All, Filter, Map)
+
 - Concurrency
     - GoRoutine
     - Channels
-    - Channelsbuffering
-    - ChannelSyncronization
-    - WorkerPool
-    - WaitGroup
+    - Channels buffering
+    - Channel Syncronization
+    - Worker Pools
+    - Wait Group
+
 - Server
     - HttpServer
-    - EnvironmentVariable
+    - Environment Variable
     - Middleware
     - Authentication
 
@@ -63,5 +66,5 @@ Range iterates over elements in a variety of data structure. Any collection of d
     //1 111
 ```
 
-### defer 
+### Defer 
 This is usualy used for cleanup purpose for runing the functions before exiting the context of function. defer is often used where e.g. ensure and finally would be used in other languages.

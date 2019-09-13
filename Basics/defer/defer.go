@@ -13,6 +13,5 @@ func worker() {
 }
 
 func main() {
-	go worker()
-	fmt.Scanln()
+	worker()
 }
