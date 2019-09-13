@@ -52,4 +52,13 @@ Range iterates over elements in a variety of data structure. Any collection of d
     for _, num := range nums {
         sum += num
     }
+    fmt.Println("sum:", sum)
+    //Output= sum:9
+   
+   for i, c := range "go" {
+        fmt.Println(i, c)
+    }
+    //Output=
+    //0 103
+    //1 111
 ```
