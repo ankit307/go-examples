@@ -38,6 +38,18 @@ Interfaces are named collection of method signature. To impliment an interface i
 
 ### Struct
 Structs are type collection of fields. They are simalar to an object that contains only attributes.
-Structs are behaivour are extended using methods.
+Structs behaivour can be extended using methods.
 
+### Maps
+Maps are a key value based data structure also called as hash and dict in other language.The builtin len returns the number of key/value pairs when called on a map.
 
+### Range
+Range iterates over elements in a variety of data structure. Any collection of data can be iterated by using range and for loop
+
+``` go
+ nums := []int{2, 3, 4}
+    sum := 0
+    for _, num := range nums {
+        sum += num
+    }
+```
