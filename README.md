@@ -62,3 +62,6 @@ Range iterates over elements in a variety of data structure. Any collection of d
     //0 103
     //1 111
 ```
+
+### defer 
+This is usualy used for cleanup purpose for runing the functions before exiting the context of function. defer is often used where e.g. ensure and finally would be used in other languages.
