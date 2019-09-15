@@ -1,5 +1,7 @@
 # Go Examples
 
+[![Maintenance](https://img.shields.io/badge/Maintained%3F-yes-green.svg)](https://github.com/ankit307/go-examples/graphs/commit-activity) [![made-with-Go](https://img.shields.io/badge/Made%20with-Go-blue.svg)](https://golang.org/) [![PRs Welcome](https://img.shields.io/badge/PRs-welcome-brightgreen.svg?style=flat-square)](http://makeapullrequest.com) [![Open Source Love](https://badges.frapsoft.com/os/v1/open-source.svg?v=103)](https://github.com/ellerbrock/open-source-badges/) [![MIT Licence](https://badges.frapsoft.com/os/mit/mit.svg?v=103)](https://opensource.org/licenses/mit-license.php) [![HitCount](http://hits.dwyl.io/ankit307/go-examples.svg)](http://hits.dwyl.io/ankit307/go-examples)
+
 ### Show some :heart: and :star: the repo to support the project
 
 Go Examples contains some practice programs for learning the basics of Go Language. 
