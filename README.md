@@ -25,7 +25,7 @@ It contains programs on topics, that will help you as a building block:
     - GoRoutine
     - Channels
     - Channels buffering
-    - Channel Syncronization
+    - Channel Synchronization
     - Worker Pools
     - Wait Group
 - Server
@@ -71,7 +71,7 @@ Range iterates over elements in a variety of data structure. Any collection of d
 This is usually used for cleanup purpose for running the functions before exiting the context of function. defer is often used where e.g. ensure and finally would be used in other languages.
 
 
-### [About the Author]
+### [About the Author]()
 Ankit Garg := Enthusiastic and passionate full stack developer, Love to work in professional and challenging environment.
 
 Let's Connect ! - | [LinkedIn](http://bit.ly/2lUHXQi) | [Twitter](http://bit.ly/2lO6WVJ)
