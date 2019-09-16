@@ -15,7 +15,6 @@ func composeRec(fns ...fnString) fnString {
 		if len(fns) == 1 {
 			return f(s)
 		}
-
 		return f(composeRec(fs...)(s))
 	}
 }
