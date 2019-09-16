@@ -12,11 +12,14 @@ It contains programs on topics, that will help you as a building block:
 - Basics
     - Interface
     - Struct
+    - Methods
     - Maps
     - Range
     - Defer
+    - Read File
     - Panic
     - JSON
+    - Encrypt Decrypt
 - Design Pattern
     - Closure
     - Recursion
@@ -30,6 +33,7 @@ It contains programs on topics, that will help you as a building block:
     - Channel Synchronization
     - Worker Pools
     - Wait Group
+    - Atomic
 - Server
     - HttpServer
     - Environment Variable
