@@ -78,6 +78,5 @@ This is usually used for cleanup purpose for running the functions before exitin
 
 
 ### [About the Author]()
-Ankit Garg := Enthusiastic and passionate full stack developer, Love to work in professional and challenging environment.
-
+Developer / Author: Ankit Garg
 Let's Connect ! - | [LinkedIn](http://bit.ly/2lUHXQi) | [Twitter](http://bit.ly/2lO6WVJ)
