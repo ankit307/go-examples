@@ -17,6 +17,7 @@ It contains programs on topics, that will help you as a building block:
     - Range
     - Defer
     - Read File
+    - Process CSV
     - Panic
     - JSON
     - Encrypt Decrypt
